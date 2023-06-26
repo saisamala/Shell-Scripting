@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "Enter any number";
 read a;
 echo "Enter any number";
